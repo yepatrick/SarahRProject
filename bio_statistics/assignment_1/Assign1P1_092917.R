@@ -1,3 +1,4 @@
+# Get the median
 median(hiv$vl, na.rm=TRUE)
 hist(hiv$vl, breaks=5, xlab="HIV viral load (copies/ml)")
 hiv$logvl = log10(hiv$vl)

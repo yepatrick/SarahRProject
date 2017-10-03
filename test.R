@@ -1,3 +1,4 @@
+# Sarah's first commit.
 CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
   # Computes the sample covariance between two vectors.
   #
